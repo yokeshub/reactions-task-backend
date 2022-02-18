@@ -1,0 +1,15 @@
+{
+  "name": "json-db-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/artfuldev/json-db-data.git",
+  "author": "Sudarsan Balaji <sudarsan@rocketlane.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "json-server": "^0.16.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
